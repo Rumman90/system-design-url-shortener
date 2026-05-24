@@ -1,4 +1,4 @@
-# URL Shortener - System Design
+# System Design: URL Shortener
 
 This repository documents the high-level and low-level design of a scalable URL shortening service similar to Bitly or TinyURL. It covers architecture, API contracts, data model, cache strategy, scalability, availability, and operational trade-offs.
 
