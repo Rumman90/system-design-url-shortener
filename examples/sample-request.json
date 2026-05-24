@@ -1,1 +1,5 @@
-{"longUrl":"https://example.com/products?id=12345","expiresAt":null}
+{
+  "longUrl": "https://example.com/products?id=12345",
+  "expiresAt": null,
+  "customAlias": null
+}
