@@ -234,3 +234,7 @@ url:{shortCode} -> {longUrl, expiresAt, isActive}
 - [API Design](docs/api-design.md)
 - [Sample Request](examples/sample-request.json)
 - [Sample Response](examples/sample-response.json)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
